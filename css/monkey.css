@@ -6,6 +6,8 @@ html {
   position: absolute;
   top: 550px;
   right: 120px;
+  min-width: 406px;
+  max-width: 1170px;
 }
 
 /* Write your solution here */
